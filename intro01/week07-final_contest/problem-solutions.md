@@ -16,3 +16,11 @@ Resumindo, é encontrar o tamanho da maior substring que se repete em uma string
 
 Problema simples de two pointers, tal que a soma esquerda deve ser igual a soma direita, dai conta qual é a soma máxima que pode ser igual tanto para a esquerda, quanto para a direita.
 
+
+**cf600b:**  
+Em suma, deve-se ordenar o vetor para descobrir a quantidade da valores que são menores que o comparado, fazendo um lower bound.
+
+
+**cf645a:** 
+
+A ideia é verificar se a sequência horária/anti-horária de uma tabela é POSSUI a sequência da outra, para isso, deve-se duplicar uma das strings e fazer um find. 
